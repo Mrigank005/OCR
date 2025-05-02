@@ -1,6 +1,6 @@
 # 🖼️ OCR Text Extractor
 
-This Python script automates the extraction of text from images using Tesseract OCR. It processes all images in the `test_images/` folder and saves the extracted text as `.txt` files in the `extracted_texts/` directory, maintaining the original image filenames.([GitHub][1])
+This Python script automates the extraction of text from images using Tesseract OCR. It processes all images in the `test_images/` folder and saves the extracted text as `.txt` files in the `extracted_texts/` directory, maintaining the original image filenames.
 
 ---
 
