@@ -1,0 +1,7 @@
+Ques-3 
+Explain with the help of a block diagram a complete mutual memory system. 
+Sol" virtual memory is a memory management technique used by operating systems to give an appereance of a large, continous Coldck block of a memory to applications, e even f the physical memory (RAM) is limited. It allows. applica applications to run on sy on systems with less RAM. allows larger 
+The main objective of virtual memory is to support. multiprogramming The main advantage memory providel is, a running process to be cheirely in memory. Je that wirtual ess does not needs. 
+Programs can be larger than the availability physical memory witical memory provider an abstraction of main memory, eliminating concerns about storage limitatione. 
+A memory hierarchy, consisting of a computer system's memory only and a disk, ta some process to operate with portions of its address space in RAM to allow es to be in more processes memory. 
+A virtual memory as it name suggest-it is an illusion. suggest of a memory that is larger than the real memory software component of virtual memory de We refer to so a virtual eutual memory manager. basis of virtual memory is the honcontiguous memory allocation memory, manager relnoves removes some to make room for other components from memory. Components.
