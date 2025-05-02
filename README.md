@@ -37,8 +37,8 @@ OCR-Text-Extractor/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/OCR-Text-Extractor.git
-cd OCR-Text-Extractor
+git clone https://github.com/Mrigank005/OCR
+cd OCR
 ```
 
 
